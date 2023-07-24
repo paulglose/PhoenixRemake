@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2c19e9719ef484848b35a7b439a7ddc6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - eMovement: {fileID: 11400000, guid: 2fdb5a134658cf84398bacff97ea3819, type: 2}
+  - eAbility: {fileID: 11400000, guid: 536eeedd295547243ab31b46b5b6762e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

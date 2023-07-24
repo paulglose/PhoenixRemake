@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c19e9719ef484848b35a7b439a7ddc6, type: 3}
+  m_Name: InputReader
+  m_EditorClassIdentifier: 
+  InputAsset: {fileID: -944628639613478452, guid: 583967b5fbf593a4a81246dec6bdb412, type: 3}
+  activeActionMap:
+    m_Name: Active
+    m_Id: c0744134-d539-48b9-9f60-3cac0db9a1d3
+    m_Asset: {fileID: 0}
+    m_Actions: []
+    m_Bindings: []
+  WaveChannel: {fileID: 11400000, guid: 45bbeb527ef82374599a7ff4c51a3094, type: 2}
+  PlayerActionMap:
+    m_Name: Player
+    m_Id: 64689180-a6ee-417a-b102-41fbb48b8dd4
+    m_Asset: {fileID: 0}
+    m_Actions: []
+    m_Bindings: []
+  UIActionMap:
+    m_Name: UI
+    m_Id: a5ffc82f-20cb-4fc7-b84f-62c0557c93b8
+    m_Asset: {fileID: 0}
+    m_Actions: []
+    m_Bindings: []

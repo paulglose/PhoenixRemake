@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09a8410632dbb6240981f836eac3f6d7, type: 3}
+  m_Name: EGUP_PiercingBullets
+  m_EditorClassIdentifier: 
+  IsUnique: 1
+  AbilitySource: 0
+  UpgradeRarity: 2
+  video: {fileID: 32900000, guid: b86d596d6e2513246875b4a8f10ef6de, type: 3}
+  AccordingUpgradeables:
+  - PlasmaGun
+  Description: 'Bullets now Pierce Enemies. '
+  ShootingCooldown: 0
+  BulletDamage: 0
+  BulletSpeed: 0
+  BulletSize: 0
+  ShootingSlow: 0
+  ShootingAccuracy: 0
+  HeatPerShot: 0
+  MaxHeat: 0
+  CooldownSpeed: 0
+  PiercingBullets: 1
+  Damage: 0
+  ExplosionRadius: 0
+  Cooldown: 0
+  TimeToLoaded: 0
+  Slow: 0
+  TimeUntilExplosion: 0
+  InversedKnockback: 0
+  DoubleBullets: 0
+  DashPower: 0
+  MovementSpeed: 0
+  DashCooldown: 0
+  LaserLoadingTime: 0
+  LaserDamagePerTick: 0
+  LaserShootingDuration: 0
+  LaserCooldown: 0
+  LaserSlow: 0
+  LaserKnockbackStrength: 0
