@@ -1,3 +1,6 @@
+**General Notes**
+The Game is in a very early stage of development. 
+
 **Game Starting**
 In order to start the game, you need to start the **Initilization**-Scene. After that you press **StartGame**. The **Test**-Scene is used for recording videos for abilities.
 
